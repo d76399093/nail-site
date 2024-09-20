@@ -1,0 +1,515 @@
+.header_logo {
+    display: block;
+    width: 265px;
+    height: 31px;
+    margin: 58px 0 0 194px;
+}
+
+.col-md-6 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.header_img_logo {
+    height: 1012px;
+    background-image: url(/manicure_site/src/img/sour-moha-k47viB7Dt8I-unsplash.png);
+    background-size: cover;
+}
+
+.nail_art {
+    width: 1260px;
+    height: 810px;
+    background-color: #FCF8EF;
+}
+
+.nail_img {
+    position: absolute;
+    top: 282px;
+    left: 145px;
+    z-index: 1;
+}
+
+.braclet {
+    position: absolute;
+    width: 493px;
+    height: 485px;
+    transform: rotate(-162.585deg);
+    top: 290px;
+    left: 91px;
+}
+
+.c03 {
+    position: absolute;
+    width: 529px;
+    height: 486px;
+    transform: rotate(24.672deg);
+    top: 128px;
+    left: 179px;
+}
+
+.lorem_container {
+    width: 1280px;
+    height: 202px;
+    background-color: #D8B192;
+}
+
+.descr {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    text-align: center;
+    padding-top: 65px;
+}
+
+.subdescr {
+    color: #F3F3F3;
+    font-feature-settings: 'liga' off, 'clig' off;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: center;
+}
+
+
+
+
+.header_logo1 {
+    display: inline;
+    position: absolute;
+    width: 354px;
+    height: 526px;
+    border-radius: 100px;
+    top: 215px;
+    left: 770px;
+}
+
+.middle_logo {
+    padding-top: 70px;
+    background-color: #FCF8EF;
+    height: 400px;
+    width: 100%;
+}
+
+.middle_logo .container {
+    width: 1253px;
+    height: 278px;
+}
+
+.item_wraper img {
+    display: block;
+    margin: auto;
+}
+
+.item_wraper {
+    margin-top: 30px;
+}
+
+.item_wraper h3 {
+    color: #767676;
+    text-align: center;
+    font-feature-settings: 'liga' off, 'clig' off;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 32px;
+    padding-top: 30px;
+}
+
+.item_wraper p {
+    color: #767676;
+    text-align: center;
+    font-feature-settings: 'liga' off, 'clig' off;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+}
+
+html {
+    width: 1920px;
+}
+
+.row {
+    margin: 0;
+}
+
+.title {
+    color: #D8B192;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.middle_info {
+    background-color: #FCF8EF;
+    height: 870px;
+}
+
+.middle_info .row {
+    padding-top: 151px;
+}
+
+.description {
+    color: #767676;
+    font-feature-settings: 'liga' off, 'clig' off;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+}
+
+.btn {
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #D8B192;
+    width: 151px;
+    height: 50px;
+    color: #FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: uppercase;
+    border: none;
+}
+
+
+.grey_txt {
+    color: #767676;
+    font-feature-settings: 'liga' off, 'clig' off;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 25px;
+}
+
+.middle_nail_img {
+    position: relative;
+    width: 480px;
+    height: 519px;
+    z-index: 1;
+}
+
+.golden {
+    position: absolute;
+    top: 235px;
+    width: 466.66px;
+    height: 495.338px;
+    transform: rotate(-363.962deg);
+    left: -160px;
+    z-index: 0;
+}
+
+.nail_mid {
+    position: absolute;
+    width: 275px;
+    height: 275px;
+    top: 290px;
+    left: 320px;
+    border-radius: 100px;
+    z-index: 2;
+}
+
+.golden_grid {
+    position: absolute;
+    top: -170px;
+    width: 509.296px;
+    height: 467.898px;
+    transform: rotate(65.622deg);
+    left: 255px;
+}
+
+.Lacquer {
+    background-color: #D8B192;
+    height: 746px;
+}
+
+.laquer_title {
+    padding-top: 95px;
+    color: #FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.laquer_img {
+    display: block;
+    width: 149px;
+    height: 294px;
+    margin-top: 93px;
+    margin: auto;
+    margin-right: 90px;
+}
+
+.laquer_subtitle {
+    color: #FFF;
+    text-align: center;
+    font-feature-settings: 'liga' off, 'clig' off;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.laquer_description {
+    color: #F3F3F3;
+    text-align: center;
+    font-feature-settings: 'liga' off, 'clig' off;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+}
+
+.position {
+    color: #767676;
+    font-feature-settings: 'liga' off, 'clig' off;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.position_descr {
+    color: #767676;
+    font-feature-settings: 'liga' off, 'clig' off;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.price_list .title {
+    padding-top: 207px;
+}
+
+.price {
+    padding-top: 30px;
+}
+
+.position_wraper {
+    padding-top: 30px;
+    width: 469px;
+}
+
+.price_list_logo {
+    display: block;
+    width: 731px;
+    height: 731px;
+    margin-top: 120px;
+    margin-left: 60px;
+    position: relative;
+    z-index: 1;
+}
+
+.img_1 {
+    position: absolute;
+    top: 556px;
+    left: -190px;
+    width: 529px;
+    height: 486px;
+    transform: rotate(24.672deg);
+    z-index: 0;
+}
+
+.img_2 {
+    position: absolute;
+    width: 466.66px;
+    height: 495.338px;
+    transform: rotate(38.917deg);
+    top: -80px;
+    left: 384px;
+    z-index: 0;
+}
+
+.img_3 {
+    position: absolute;
+    width: 466.66px;
+    height: 495.338px;
+    transform: rotate(38.917deg);
+    top: -50px;
+    left: 354px;
+}
+
+.bg-color {
+    background-color: #FCF8EF;
+}
+
+.price_list {
+    min-height: 1164px;
+}
+
+.nail_products_img_1 {
+    background-color: #767676;
+    mix-blend-mode: multiply;
+    background-image: url(/manicure_site/src/img/make-up-concept-with-nail-polish\ 1.png);
+    width: 355px;
+    height: 465px;
+}
+
+.nail_products_img_2 {
+    background-image: url(/manicure_site/src/img/chelson-tamares-XldjmYB7JpU-unsplash\ 1.png);
+    width: 355px;
+    height: 465px;
+    margin-left: 60px;
+}
+
+.nail_products_img_3 {
+    background-image: url(/manicure_site/src/img/laura-chouette-9otleGHD1xI-unsplash\ 1.png);
+    width: 355px;
+    height: 465px;
+    margin-top: 50px;
+}
+
+.nail_products_img_4 {
+    background-image: url(/manicure_site/src/img/manicure-equipment-set-transparent-varnish-bottle-transparent-nail-polish-podium-towel\ 1.png);
+    width: 355px;
+    height: 465px;
+    margin-top: 50px;
+    margin-left: 60px;
+}
+
+.big_img_mid {
+    background-image: url(/manicure_site/src/img/ihssan-rami-azouagh-DwJfb_uImGw-unsplash\ 1.png);
+    background-size: cover;
+    width: 776px;
+    height: 964px;
+    position: relative;
+    z-index: 1;
+}
+
+.nail_products .title {
+
+    margin-bottom: 102px;
+    color: #D8B192;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.nail_title {
+    margin-top: 210px;
+    color: #fff;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.img_title {
+    color: #F3F3F3;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    padding-left: 130px;
+    padding-top: 780px;
+}
+
+.img_subtitle {
+    padding-left: 130px;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.btn-1 {
+    margin-left: 120px;
+    width: 140px;
+    height: 60px;
+    background: linear-gradient(0deg, #D9D9D9 5.68%, rgba(217, 217, 217, 0.00) 78.24%);
+    mix-blend-mode: multiply;
+    border-radius: 100px;
+}
+
+.img_10 {
+    left: -190px;
+    position: absolute;
+    top: -240px;
+    z-index: 0;
+}
+
+.img_11 {
+    left: -240px;
+    top: -310px;
+    position: absolute;
+    z-index: 0;
+}
+
+.nail_products_wraper {
+    padding-bottom: 100px;
+}
+
+.news_img {
+    width: 404px;
+    height: 570px;
+    padding-top: 43px;
+}
+
+.news_title {
+    color: #767676;
+    font-feature-settings: 'liga' off, 'clig' off;
+    font-family: Montserrat;
+    font-size: 32px;
+    font-weight: 600;
+    text-transform: capitalize;
+    padding-top: 13px;
+}
+
+.news_description {
+    color: #767676;
+    font-feature-settings: 'liga' off, 'clig' off;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 11px;
+}
+
+.news .title {
+    text-align: center;
+    padding-bottom: 43px;
+}
+
+.instagram_link_wraper {
+    top: 250px;
+    position: absolute;
+    width: 692px;
+    height: 336px;
+    left: 637px;
+    z-index: 2;
+    display: inline;
+    background-color: #FCF8EF;
+}
+
+
+.instagram_icon {
+    display: block;
+    margin: auto;
+    padding-top: 108px;
+}
+
+.instagram_title {
+    color: #D8B192;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding-top: 23px;
+}
+
+.photo_colage {
+    position: relative;
+}
